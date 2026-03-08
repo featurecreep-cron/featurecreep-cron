@@ -2,7 +2,7 @@
 
 It was supposed to be one container.
 
-Tools, build logs, and the occasional mass refactor — for self-hosters who keep adding "just one more service."
+Now there are thirty and I keep writing about what went wrong.
 
 ## Projects
 
